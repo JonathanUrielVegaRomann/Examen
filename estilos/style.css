@@ -1,0 +1,39 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #FFC107;
+    --secundario: #0097A7;
+    --gris: #757575;
+    --grisClaro: #DFE9F3;
+    /* NUEVOS COLORES */
+    --pareceblanco: #d9d9d9;
+    --azulmarino: #233540;
+    --azulclaro:#324a59;
+    --grisclaro:#737373;
+}
+/*  Globales **/
+html {
+    font-size: 62.5%;
+    box-sizing: border-box; /* Hack para Box Model **/
+    scroll-snap-type: y mandatory;
+}
+
+.h1{
+    text-align: center;
+    
+}
+.h2{
+    text-align: center;
+}
+body{
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
